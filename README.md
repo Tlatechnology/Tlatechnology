@@ -2,9 +2,10 @@
 
 I’m a self-driven software developer, innovator, and veteran entrepreneur currently working on:
 
-🚀 **LiquorXpress** — an automated liquor bottle dispenser solution in Texas *(Founder & Inventor)*  
+🚀 **LiquorXpress** — an automated liquor bottle dispenser solution in Texas  
 🧠 **Future Driving School** — a full-stack web platform built for a real driving school in Puerto Rico  
-🌐 **Chambita.com** — a freelance job marketplace platform tailored for El Paso, TX (under development)  
+🌐 **Chambita.com** — a freelance job marketplace platform tailored for El Paso, TX (under development) 
+and more!
 
 ## 🧰 Tech Stack & Tools
 - React + TypeScript + TailwindCSS  
