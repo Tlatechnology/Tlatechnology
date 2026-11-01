@@ -22,4 +22,4 @@ I'm passionate about solving real-world problems through software. I use artific
 
 If you'd like to know how I build these solutions, what stack I use, or if you're interested in LiquorXpress, reach out directly or open an issue!
 
-📫 Contact: michael.torres9@upr.edu
+📫 Contact: tlatenchi.booking@gmail.com
